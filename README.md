@@ -16,7 +16,7 @@ GND, PA_0 (USER_BUTTON), PD_12, PD_13, PD_14, PD_15, PE_9, PE_11, PE_13, PE_14
 
 ***Note: Other pins can be used, check the STM32 pinout and look for pins that have PWM capabilities.***
 
-To use the MBED version, simply open the MBED online compiler and use the C++ code provided.
+To use the MBED version, simply open the MBED online compiler and use the code provided.
 
 To use the Linux version, you will need ST-LINK (v1.7.0 used here) which can be downloaded and used with the following commands:
 ```
